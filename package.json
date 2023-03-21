@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-echo",
+  "version": "1.0.0",
+  "description": "ESLint Config for echo self.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echoikey/eslint-config-echo.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "echo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/echoikey/eslint-config-echo/issues"
+  },
+  "homepage": "https://github.com/echoikey/eslint-config-echo#readme"
+}
